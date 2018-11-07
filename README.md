@@ -3,18 +3,18 @@ About
 cue-parser is an cue-sheet parser library written for nodejs.
 Most of the code is inspired by [cue-go](https://github.com/vchimishuk/cue-go)
 
-[![Build Status](https://travis-ci.org/justlaputa/cue-parser.png)](https://travis-ci.org/justlaputa/cue-parser)
+[![Build Status](https://travis-ci.com/gekowa/cue-parser.svg?branch=master)](https://travis-ci.org/justlaputa/cue-parser)
 
 How to use
 =======
 Add dependency in your `package.json` file:
 
-```json
-{
-    "dependencies": {
-        "cue-parser": "0.0.2"
-    }
-}
+```bash
+npm install cue-sheet
+```
+or
+```bash
+npm install https://github.com/gekowa/cue-parser
 ```
 
 use it in you node source code
