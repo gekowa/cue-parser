@@ -10,7 +10,7 @@ How to use
 Add dependency in your `package.json` file:
 
 ```bash
-npm install cue-sheet
+npm install cue-parser
 ```
 or
 ```bash
